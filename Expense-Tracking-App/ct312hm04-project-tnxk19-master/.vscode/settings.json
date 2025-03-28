@@ -1,0 +1,11 @@
+{
+  "editor.guides.bracketPairs": "active",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "dart.flutterHotReloadOnSave": "all",
+  "dart.hotReloadOnSave": "all",
+  "dart.flutterGenerateLocalizationsOnSave": "never",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cSpell.words": ["dateofbirth"],
+  "java.configuration.updateBuildConfiguration": "disabled"
+}
